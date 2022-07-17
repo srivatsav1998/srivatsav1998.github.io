@@ -2,96 +2,88 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Srivatsav Gunisetty
+    - name: Phone No.
+      value: +91 6303182077
+    - name: Email Id
+      value: gunisett@usc.edu
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/srivatsavgunisetty/">/srivatsavgunisetty</a>
+    - name: GitHub
+      value: <a href="https://github.com/srivatsav1998">/srivatsav1998</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Computer Science
+      institution: University of Southern California, Los Angeles, California
+      year: 2022 - 2024
+    - title: Bachelor of Technology in Computer Science and Engineering
+      institution: Amrita Vishwa Vidyapeetham
+      year: 2016 - 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - summa cum laude scholar
+        - Ranked 6 of 250 students.
+        - CGPA => 9.49/10
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Engineer - 2
+      institution: Informatica, Bangalore, Karnataka
+      year: 11/2021 - 07/2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Maintained 3 vital components (adapters SDK, eDTM, and Lineage service) of Data Engineering Integration (DEI) product comprising 30+ sub-components developed in C++ & JAVA.
+        - Experienced in debugging issues involving extreme multi-threading (>#50) and recursion depths beyond 15.
+        - Spent 700+ hours debugging legacy and complex logics of Joiner, Expression, and Router Transformations to fix critical customer issues.
+        - Got recognised for on-point debugging and analysis from the top management.
+    - title: Software Engineer - 1
+      institution: Philips Innovation Campus, Bangalore, Karnataka
+      year: 01/2020 - 10/2021
       description:
-        - Description 1.
-        - Description 2.
+        - Devised an auto recovery mechanism for remotely connected Gantry Display devices in event of failure; there by saving US$1 million (1M) spent on shipping these corrupted gantry devices yearly.
+        - Worked on harmonizing and automating the OS build and deployment pipelines across several Business Units. While reducing risk of manual errors, this saves 40+ man-hours required to release a new OS version every month.
+        - Designed an automated and self-reliant component test framework to seamlessly validate hundreds of component configurations involved in OS & ISO building.
+        - Conceptualized a robust automation tool to reduce 95% of manual steps required for configuring multiple displays of a Magnetic Resonance Imaging (MRI) console machine.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Summer Research Intern
+      institution: Indian Institute of Space Science and Technology, Thiruvananthapuram, Kerala
+      year: 05/2019 - 07/2019
+      description: 
+        - Overhauled SiameseFC tracker by incorporating RefineNet modules to solve short-term sub-track of Visual Object Tracking challenge. The model was designed and developed using a MATLAB toolbox, MatConvNet.
+        - Attained an average IoU of 0.336 on unseen video sequences of VOT2013 and VOT2016 Short-Term track datasets and was trained on ILSVRC2015 VID dataset.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Summer Research Intern
+      institution: Amrita School of Engineering, Bangalore, Karnataka
+      year: 06/2018 - 07/2018
       description:
+        - Performed a detailed study on the correlation between Batch Size and inference times with 4 different CPU and GPU architectures on 6 major CNN models.
+        - Achieved an average speedup of 1.62x in CNN inference times with novel split and re-split strategies which efficiently balance workload among different hardware architectures in a heterogeneous cluster.
+        - Formulated and presented the results at ICACCS2020 conference.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Academic Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Dynamic Search Paths for Visual Object tracking | Python VSCode, OpenCV
+      year: 12/2019
+      description: 
+        - Conceived an elegant, non-Deep learning solution to tackle long-term sub-track of Visual Object Tracking challenge using Kalman Filter and CW-SSIM.
+        - Analyzed and modeled trajectories of target objects in 30+ video sequence of VOT2018 LT dataset to a system of linear system of equations using physical laws of motion.
+        - Achieved an average improvement of 37.4% in IoU than the SOTA MBMD tracker.
+        - Formulated and presented the results at COCONET2020 conference[1].
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Languages
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - C++, JAVA, C#, MATLAB, SQL, Python
+    - title: Scripting Languages
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - PowerShell, BatchScript, VBScript
+    - title: Frameworks & Libraries
+      items:
+        - Pandas, Keras, MatConvNet, Caffe, TensorFlow, Numpy
+    - title: Miscellaneous
+      items:
+        - Visual Studio, VSCode, Jupyter Notebooks, Git, Windows, Linux
