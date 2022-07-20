@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
+title: Dynamic Search paths for Visual Object Tracking
+description: Non-Deep Learning solution for Visual Object Tracking Long term
+img: assets/img/projects/dsp/dsp_bg.jpg
+importance: 1
 category: work
 ---
 

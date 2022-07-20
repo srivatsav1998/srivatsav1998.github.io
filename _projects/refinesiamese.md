@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: RefineSiamese
+description: A deep learning model developed based on SiameseFC and RefineNet for Visual Object Tracking
+img: assets/img/projects/refinesiamese/real_time_object_detection.jpg
+# redirect: https://unsplash.com
+importance: 1
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

@@ -33,10 +33,9 @@
       institution: Informatica, Bangalore, Karnataka
       year: 11/2021 - 07/2022
       description:
-        - Maintained 3 vital components (adapters SDK, eDTM, and Lineage service) of Data Engineering Integration (DEI) product comprising 30+ sub-components developed in C++ & JAVA.
-        - Experienced in debugging issues involving extreme multi-threading (>#50) and recursion depths beyond 15.
-        - Spent 700+ hours debugging legacy and complex logics of Joiner, Expression, and Router Transformations to fix critical customer issues.
-        - Got recognised for on-point debugging and analysis from the top management.
+        - Perfected 3 vital components (adapters SDK, eDTM, and Lineage service) of Informatica's Big Data Management(BDM) product comprising 30+ sub-components developed in C++ & JAVA.
+        - Investigated and fixed critical customer issues. Debugged through complex Joiner, Expression, and Router transformation logics comprising 15000+ lines of legacy code in extreme multi-threaded (>#50) environments with recursion depths beyond 15.
+        - Reinforced product security by identifying, removing/upgrading vulnerable third-party binaries including Log4j from 60+ components. 
     - title: Software Engineer - 1
       institution: Philips Innovation Campus, Bangalore, Karnataka
       year: 01/2020 - 10/2021

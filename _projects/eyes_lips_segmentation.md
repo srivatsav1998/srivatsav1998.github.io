@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Eyes and Lips Segmentation
+description: A GAN model to segment eyes and lips from a potrait image
+img: assets/img/projects/eyes_lips_segmentation/results_crop.png
+importance: 1
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

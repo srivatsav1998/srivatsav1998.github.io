@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+title: Remote Controlled Car
+description: ESP8266 powered DIY remote controlled car which can be controlled with voice commands
+img:
+importance: 2
 category: fun
 ---
 

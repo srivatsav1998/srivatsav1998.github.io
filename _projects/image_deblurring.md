@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: Image Deblurring
+description: A GAN model to segment eyes and lips from a potrait image
+img: assets/img/projects/image_deblurring/results_crop.png
+importance: 2
 category: work
 ---
 
