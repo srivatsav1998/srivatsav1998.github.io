@@ -2,7 +2,7 @@
 layout: page
 title: Remote Controlled Car
 description: ESP8266 powered DIY remote controlled car which can be controlled with voice commands
-img:
+img: assets/img/projects/rc_car/prototype.jpg
 importance: 2
 category: fun
 ---

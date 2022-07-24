@@ -6,7 +6,7 @@ subtitle: Software Engineer | Deep Learning enthusiast
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_cicular: false # crops the image to make it circular
   address: >
     <p>+91 (630)318-2077</p>
@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello there, thanks for adding to my visitors count! Let me brief about my self below.
 
-I am pursuing my master's in Computer Science at [University of Southern California](http://usc.edu). Before joining USC, I used to work as a software Engineer for almost 2.5 years at firms like Informatica, and Philips. 
+I am pursuing master's in Computer Science at [University of Southern California](http://usc.edu). Before joining USC, I worked as a Software Engineer for almost 2.5 years at firms like Informatica, and Philips. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
