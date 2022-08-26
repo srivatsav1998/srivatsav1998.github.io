@@ -4,7 +4,7 @@ title: Image Deblurring
 description: A GAN model to segment eyes and lips from a potrait image
 img: assets/img/projects/image_deblurring/results_crop.png
 importance: 2
-category: work
+category: personal
 ---
 
 Every project has a beautiful feature showcase page.

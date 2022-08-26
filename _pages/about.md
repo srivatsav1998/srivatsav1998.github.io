@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpeg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>+91 (630)318-2077</p>
+    <p>Mobile no: +1 213-245-9639</p>
+    <p>Email: gunisett@usc.edu</p>
     <p>Los Angles, California 90007</p>
 
 news: false  # includes a list of news items

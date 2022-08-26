@@ -4,7 +4,7 @@ title: Eyes and Lips Segmentation
 description: A GAN model to segment eyes and lips from a potrait image
 img: assets/img/projects/eyes_lips_segmentation/results_crop.png
 importance: 1
-category: work
+category: personal
 ---
 
 Every project has a beautiful feature showcase page.

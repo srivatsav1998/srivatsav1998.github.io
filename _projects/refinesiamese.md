@@ -5,7 +5,7 @@ description: A deep learning model developed based on SiameseFC and RefineNet fo
 img: assets/img/projects/refinesiamese/real_time_object_detection.jpg
 # redirect: https://unsplash.com
 importance: 1
-category: work
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

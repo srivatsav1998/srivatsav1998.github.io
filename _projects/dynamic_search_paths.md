@@ -4,7 +4,7 @@ title: Dynamic Search paths for Visual Object Tracking
 description: Non-Deep Learning solution for Visual Object Tracking Long term
 img: assets/img/projects/dsp/dsp_bg.jpg
 importance: 1
-category: work
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

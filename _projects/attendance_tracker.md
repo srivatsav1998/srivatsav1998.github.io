@@ -4,7 +4,7 @@ title: Attendance tracker
 description: In-house project to track student attendance for SLAC lab
 img:
 importance: 3
-category: fun
+category: personal
 ---
 
 Every project has a beautiful feature showcase page.
