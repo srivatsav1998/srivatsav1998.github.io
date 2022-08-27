@@ -18,14 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello there, thanks for adding to my visitors count! Let me brief about my self below.
+Hola! Welcome to my portfolio. Let me introduce myself. I am a first-year graduate student in the [University of Southern California's](http://usc.edu) [Master of Science in Computer Science program](https://www.cs.usc.edu/academic-programs/masters/computer-science-general/). I am currently looking for summer 2023 internship positions and would love to chat /discuss if you have something in mind for me. 
 
-I am pursuing master's in Computer Science at [University of Southern California](http://usc.edu). Before joining USC, I worked as a Software Engineer for almost 2.5 years at firms like Informatica, and Philips. 
+A sneak-peek into my professional journey:
+I pursued my undergrad studies at [Amrita Vishwa Vidyapeetam](https://www.amrita.edu/), majoring in [Computer Science and Engineering](https://www.amrita.edu/program/btech-computer-science-and-engineering/), and graduated in 2020. I started my professional journey with [Philips](https://www.philips.com/global) as a Software Engineer, where I worked on Operating Systems as part of the Build and Operating systems team (BOS). One year later, desiring to explore the Big Data domain, I joined [Informatica](https://www.informatica.com/) as a Software Engineer 2. I worked as a C++ developer on the transformation execution engine of the proprietary Big Data Management tool. 
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-
-Note: I am currently looking for summer 2023 internship opportunities. Hit me up if you have something in mind!
+You may refer to the [CV](/cv/) section for a detailed insight into my professional journey. 
