@@ -29,6 +29,13 @@
               {%- endif %}
             </div>
             {%- endif %}
+            {%- if project.otherLink -%}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Other Link">
+                <a href="{{ project.otherLink }}"><i class="fab fa-light fa-link"></i></a>
+              </div>
+            </div>
+            {%- endif %}
           </div>
         </div>
       </div>

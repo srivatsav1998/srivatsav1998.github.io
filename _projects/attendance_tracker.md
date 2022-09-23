@@ -1,80 +1,31 @@
 ---
 layout: page
 title: Attendance tracker 
-description: In-house project to track student attendance for SLAC lab
-img:
+description: In-house project to track student attendance
+img: assets/img/projects/slac/login.png
 importance: 3
 category: personal
+github: https://github.com/srivatsav1998/Attendance-tracker
+otherLink: 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### Background:
+Corporate and Industry Relations (CIR) wing in my undergraduate school wanted to keep track of students attending the coding sessions (named Stay Late and Code) hosted as part of recruitment training. An efficient solution was required to prevent proxies and to ensure that students physically visit the sessions.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+### Solution:
+We engineered a web-based application to which students can signup or log in. The login duration represents the work hours of a student in the lab. An admin dashboard enabled management to track the performance of each student. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### Project Information:
+**Tech Stack:** AngularJS, PHP, MySQL, PHPMyAdmin <br/>
+**Team size:** 6
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### Unique Features:
+1. **Geo-Fencing:** The application is intelligent to identify students logging from other locations and block them. The robustness of this feature yielded an increase of 67% physical attendance post this feature.
+2. **Interactive dashboards:** Interactive admin dashboard enabled admins to add/ delete/ update student information. The student dashboard pictorially represents the hours spent by each student for a week.
+3. **Compete with friends:** To promote healthy competition among students, daily stats are displayed on the student dashboard. Students can also add their friends to share their progress.
+4. **Extendable:** The project is highly modularized and several new features like tracking students’ performance in various Online judges can be featured with very little work.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+### Roles and responsibilities:
+1. Participated in project brainstorming and suggested key features like geo-fencing and Competing with friends.
+2. As part of the backend team, I designed the database schema to be as efficient as possible while ensuring extendability
+3. As part of the frontend team, handled all card views in the admin dashboard.
